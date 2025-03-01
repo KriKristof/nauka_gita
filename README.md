@@ -9,3 +9,6 @@ Opis: To jest repozytorium, ktore bedzie zawieralo komendy i linki przydatne pod
 
 ## Cwiczenia
 1. Learn Git Branching - EN - [link](https://learngitbranching.js.org/)
+
+## Pytania rekrutacyjne
+1. Git pytania rekrutacyjne 2024 - PL - [link](https://mockit.pl/blog/pytania-rekrutacyjne-git)
